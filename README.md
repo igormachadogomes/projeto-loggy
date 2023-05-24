@@ -1,6 +1,7 @@
 # projeto-loggy
 
 import json
+
 import pandas as pd
 import geopandas
 import geopy
